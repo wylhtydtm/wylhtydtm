@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ziwei @wylhtydtm
 - 👀 I’m interested in understanding the developmental/regenerative mechanisms of enteric nervous system 
 - 🌱 I’m currently learning vairous bioinformatics tools 
-- 💞️ I’m also interested in classical piano pieces and impressionism arts.
+- 💞️ I’m also interested in classical piano pieces and impressionism art.
 - 📫 You can reach me via email ziwei.liu@ki.se
 
 <!---
