@@ -7,7 +7,7 @@ Hi, I’m I’m Ziwei @wylhtydtm! I’m a passionate developmental biologiest wi
 - :handshake: I’m looking to collaborate on **genomic sequencing projects** and **deep-learning tools to facilitate data analysis**.
 - :speech_balloon: Ask me about **Enteric nervous system**, **single cell sequencing sample prepration**, and **data analysis**.
 - :mailbox: How to reach me: [ziwei.liu@ki.se](ziwei.liu@ki.se)
-- :zap: Fun fact about myself: I was pursuing pianoforte for profession before 18 but my interest was switched to science in high school and went on to do a Bsc Biochemistry in London.
+- :zap: Fun fact: I was pursuing pianoforte for profession before 18 but my interest was switched to science in high school and went on to do a Bsc Biochemistry in London.
 
 ## :books: My Research and Papers
 I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
