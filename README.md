@@ -18,4 +18,4 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zcbtzwl).
 
 ## :hammer_and_wrench: Tools I Use
-R, Python
+R, Python, HPC, Snakemake,sqlite3
