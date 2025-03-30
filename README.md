@@ -1,7 +1,7 @@
 
 
 ## About Me :smile:
-Hi, I’m I’m Ziwei @wylhtydtm! I’m a passionate developmental biologiest with strong interests in genomic sequencing and data analysis. My PhD project is focused on understanding the developmental/regenerative mechanisms of enteric nervous system using single-cell sequencing technology (scRNA-seq, scATAC-seq and nano-CUT&Tag). I’m always excited to learn new technologies and collaborate on exciting projects.
+Hi, I’m I’m Ziwei @wylhtydtm! I’m a developmental biologiest with strong interests in genomic sequencing and data analysis. My PhD project is focused on understanding the developmental/regenerative mechanisms of enteric nervous system using single-cell sequencing technology (scRNA-seq, scATAC-seq and nano-CUT&Tag). I’m always excited to learn new technologies and collaborate on exciting projects.
 
 - :seedling: I’m currently exploring **Epigenomics** and **Bioinformatics**.
 - :handshake: I’m looking to collaborate on **genomic sequencing projects** and **deep-learning tools to facilitate data analysis**.
