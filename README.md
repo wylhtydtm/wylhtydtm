@@ -18,12 +18,4 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zcbtzwl).
 
 ## :hammer_and_wrench: Tools I Use
-<p align=“left”>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg” alt=“python” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg” alt=“python” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg” alt=“docker” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg” alt=“git” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg” alt=“github” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg” alt=“linux” width=“30" height=“30”/>
-<img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg” alt=“mysql” width=“30" height=“30”/>
-</p>
+R, Python
