@@ -5,15 +5,15 @@ Hi, I’m I’m Ziwei @wylhtydtm! I’m a developmental biologist with strong in
 
 - :seedling: I’m currently exploring **Epigenomics** and **single cell Biology**.
 - :handshake: I’m looking to collaborate on **genomic sequencing projects** and **deep-learning tools to facilitate data analysis**.
-- :speech_balloon: Ask me about **Enteric nervous system**, **single cell sequencing sample prepration**, and **data analysis**.
+- :speech_balloon: Ask me about **Enteric nervous system**, **single cell sequencing**, and **data analysis**.
 - :mailbox: How to reach me: [ziwei.liu@ki.se](ziwei.liu@ki.se)
 
 ## My Research 
-- :Paper: The transcriptomes, connections and development of submucosal neuron classes in the mouse small intestine
-- :Paper: [DOI:(10.1038/s42003-022-03206-1 ) - Megapixel camera arrays enable high-resolution animal tracking in multiwell plates
+- :Paper: The transcriptomes, connections and development of submucosal neuron classes in the mouse small intestine Nature Neuroscience, 2025
+- :Paper: Megapixel camera arrays enable high-resolution animal tracking in multiwell plates Communications Biology, 2022
 
-## :mailbox: Connect with Me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/zcbtzwl).
+## Connect with Me
+[LinkedIn](https://www.linkedin.com/in/zcbtzwl).
 
 ## :hammer_and_wrench: Tools I Use
 R, Python, HPC, Snakemake,sqlite3
