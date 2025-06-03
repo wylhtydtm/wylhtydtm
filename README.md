@@ -9,8 +9,8 @@ Hi, I’m I’m Ziwei @wylhtydtm! I’m a developmental biologist with strong in
 - :mailbox: How to reach me: [ziwei.liu@ki.se](ziwei.liu@ki.se)
 
 ## My Research 
-- :Paper: The transcriptomes, connections and development of submucosal neuron classes in the mouse small intestine Nature Neuroscience, 2025
-- :Paper: Megapixel camera arrays enable high-resolution animal tracking in multiwell plates Communications Biology, 2022
+- :co-author Paper: The transcriptomes, connections and development of submucosal neuron classes in the mouse small intestine Nature Neuroscience, 2025
+- :co-author Paper: Megapixel camera arrays enable high-resolution animal tracking in multiwell plates Communications Biology, 2022
 
 ## Connect with Me
 [LinkedIn](https://www.linkedin.com/in/zcbtzwl).
